@@ -13,13 +13,16 @@ The project focuses on classifying benign and malignant cells using neural netwo
 Dataset used: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 It consists of 7909 microscopic images of Benign and Malignant cells. 
 The basic pre-processing, Image Augmentation, Imbalance class handling is done.
+
 <img width="444" alt="image" src="https://github.com/neihitha18/Explainable_AI_for_Breastcancer_diagnosis/assets/60841944/5459c976-a88d-446b-b790-7a5b352d55b3">
+
 # Data splitting
 The data is split into train, validate and test data in the ratio of 60:20:20. 
 <img width="443" alt="image" src="https://github.com/neihitha18/Explainable_AI_for_Breastcancer_diagnosis/assets/60841944/3044fe60-edde-402c-b200-e1360b7b0a95">
 
 # Model Building and Evaluation
 A customised Convolution Neural Networks, ResNet50V2 and InceptionV3 models are built, trained, validated and finally tested against the test data. The evaluation results are as follows 
+
 <img width="305" alt="image" src="https://github.com/neihitha18/Explainable_AI_for_Breastcancer_diagnosis/assets/60841944/3eb493a1-da46-43b8-acab-4bb92dbdfe41">
 
 # Exaplainable AI
