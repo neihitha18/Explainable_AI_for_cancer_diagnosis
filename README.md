@@ -9,7 +9,7 @@ The project focuses on classifying benign and malignant cells using neural netwo
 # Methodology
 <img width="413" alt="image" src="https://github.com/neihitha18/Explainable_AI_for_Breastcancer_diagnosis/assets/60841944/070e0515-3202-4edb-9114-d9478cc92b81">
 
-# Data Analysis: 
+# Data Analysis and pre-processing: 
 Dataset used: https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/
 It consists of 7909 microscopic images of Benign and Malignant cells. 
 The basic pre-processing, Image Augmentation, Imbalance class handling is done.
