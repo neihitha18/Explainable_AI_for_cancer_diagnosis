@@ -1,10 +1,14 @@
 # Explainable_AI_for_Cancer_diagnosis
 The project focuses on classifying benign and malignant cells using neural networks. As neural networks are often considered black box models, the emphasis is on interpreting the causality behind the classification. The goal is to create an explainable model, addressing the interpretability challenge associated with neural networks.
 
+# Problem Statement
+Identifying benign or malignant cells is crucial for early diagnosis. Neural networks excel in classification but lack interpretability, reducing trust in AI-driven medical decisions. Traditional models offer transparency but less accuracy. This project develops an explainable neural network that classifies cells accurately while revealing key features influencing predictions.
+
 # Research Objectives:
-1. To classify Bengin and Malignant Cells 
-2. To apply Deep learning techniques
-3. To interpret the classification Results
+1. To develop a neural network model for classifying benign and malignant cells.
+2. To assess the model’s performance using standard evaluation metrics.
+3. To explore and implement explainable AI techniques for interpreting model predictions.
+4. To enhance model transparency by identifying causality influencing classification.
 
 # Methodology
 <img width="413" alt="image" src="https://github.com/neihitha18/Explainable_AI_for_Breastcancer_diagnosis/assets/60841944/070e0515-3202-4edb-9114-d9478cc92b81">
